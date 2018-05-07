@@ -1,0 +1,64 @@
+h2{
+	font-family: 'Pacifico', cursive;
+	color: ;
+}
+h4{
+	font-family: 'Cookie', cursive;
+}
+li{
+	font-family: 'Cookie', cursive;
+	font-size: 20px;
+}
+p{
+	font-family: 'Cookie', cursive;
+	font-size: 20px;
+
+}
+h3{
+	font-family: 'Pacifico', cursive;
+}
+.bio{
+	font-family: 'Cookie', cursive;
+	color: #;
+	text-shadow: 0px 0px 8px 8px black;
+	font-size: 25px;
+}
+.row{
+	padding: 5%;
+	margin: 0;
+	background-image: url("galaxia.jpg");
+}
+.col-md-4{
+	
+}
+.col-md-8{
+	padding: 2.3%;
+	margin-top: 3.3%;
+	background: white;
+	box-shadow: 0px 0px 8px 0px white;
+	background: #e2d7d7;
+}
+.panel-heading{
+	padding: 30px;
+}
+.thumbnail{
+	padding: 20%;
+	width: 340px;
+	background-color: #e2d7d7;
+	box-shadow: 0px 0px 8px 0px white;
+}
+.icons{
+	height: 40px;
+	width: 40px;
+}
+.iconos{
+	text-align: center;
+}
+.col4{
+	color: ;
+	font-family: 'Pacifico', cursive;
+}
+.panel-title{
+	font-size: 20px;
+	font-family: 'Kaushan Script', cursive;
+}
